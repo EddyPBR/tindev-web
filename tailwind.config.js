@@ -6,6 +6,9 @@ module.exports = {
         cursive: ["Nunito Sans", "cursive"],
         sans: ["Fredoka", "sans-serif"],
       },
+      colors: {
+        primary: "#DF4723"
+      }
     },
   },
   plugins: [],
