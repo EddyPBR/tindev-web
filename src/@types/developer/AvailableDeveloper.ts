@@ -1,4 +1,4 @@
-import { Developer, Like, Dislike } from "@@types/general";
+import type { Developer, Like, Dislike } from "@@types/developer";
 
 interface AvailableDeveloper extends Developer {
   likes: Like[];
